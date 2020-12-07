@@ -8,7 +8,3 @@ if(x===10){
 else if(x>10){
 alert('Your number was greater than 10.');
 }
-
-
-
-
